@@ -163,15 +163,7 @@
                                 "type": "basic"
                             },
                             {
-                                "conditions": [
-                                    {
-                                        "bundle_identifiers": [
-                                            "^com\\.microsoft\\.VSCode$"
-                                        ],
-                                        "type": "frontmost_application_if"
-                                    }
-                                ],
-                                "from": {
+                               "from": {
                                     "key_code": "b",
                                     "modifiers": {
                                         "mandatory": [
@@ -192,15 +184,7 @@
                                 "type": "basic"
                             },
                             {
-                                "conditions": [
-                                    {
-                                        "bundle_identifiers": [
-                                            "^com\\.microsoft\\.VSCode$"
-                                        ],
-                                        "type": "frontmost_application_if"
-                                    }
-                                ],
-                                "from": {
+                               "from": {
                                     "key_code": "f",
                                     "modifiers": {
                                         "mandatory": [
@@ -221,15 +205,7 @@
                                 "type": "basic"
                             },
                             {
-                                "conditions": [
-                                    {
-                                        "bundle_identifiers": [
-                                            "^com\\.microsoft\\.VSCode$"
-                                        ],
-                                        "type": "frontmost_application_if"
-                                    }
-                                ],
-                                "from": {
+                               "from": {
                                     "key_code": "n",
                                     "modifiers": {
                                         "mandatory": [
@@ -250,15 +226,7 @@
                                 "type": "basic"
                             },
                             {
-                                "conditions": [
-                                    {
-                                        "bundle_identifiers": [
-                                            "^com\\.microsoft\\.VSCode$"
-                                        ],
-                                        "type": "frontmost_application_if"
-                                    }
-                                ],
-                                "from": {
+                               "from": {
                                     "key_code": "p",
                                     "modifiers": {
                                         "mandatory": [
